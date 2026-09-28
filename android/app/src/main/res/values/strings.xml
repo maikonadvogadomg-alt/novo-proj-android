@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">novo proj</string>
+  <string name="title_activity_main">novo proj</string>
+  <string name="custom_url_scheme">commeuappnovoproj</string>
+</resources>
